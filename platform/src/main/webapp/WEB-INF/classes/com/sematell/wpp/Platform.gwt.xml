@@ -1,0 +1,6 @@
+<module rename-to="Platform">
+  <inherits name="com.google.gwt.core.Core"/>
+  <source path="client"/>
+  <source path="shared"/>
+  <super-source path="super"/>
+</module>
